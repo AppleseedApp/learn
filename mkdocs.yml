@@ -1,1 +1,19 @@
 site_name: Learn.AppleseedApp.com
+site_url: http://www.appleseedapp.com
+site_description: Open Source .NET Enterprise Software.
+
+repo_url: https://github.com/AppleseedApp/learn/
+
+pages:
+- ['index.md', 'Home']
+- ['user/index.md', 'User Guide','Overview']
+- ['user/installation.md', 'User Guide','Installation']
+- ['user/getting-started.md', 'User Guide', 'Getting Started']
+- ['builder/index.md', 'Builder Guide']
+- ['admin/index.md', 'Administrator Guide']
+- ['designer/index.md', 'Designer Guide']
+- ['developer/index.md', 'Developer Guide']
+
+
+copyright: Copyright &copy; 2015, <a href="http://www.anant.us">Anant Corporation</a>.
+#google_analytics: ['UA-27795084-5', 'mkdocs.org']
