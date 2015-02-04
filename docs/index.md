@@ -1,6 +1,6 @@
 # Learn.AppleseedApp.com
 
-This documentation site is for Users, Builders, Designers, Developers, and Administrators of Appleseed Portal.  
+This documentation site is for Users, Builders, Designers, Developers, and Administrators of Appleseed Framework and applications that are built on the Appleseed Framework.  
 
 
 ## User Guide
