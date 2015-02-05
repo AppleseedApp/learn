@@ -5,7 +5,7 @@ site_description: Open Source .NET Enterprise Software.
 repo_url: https://github.com/AppleseedApp/learn/
 
 pages:
-- ['index.md', 'Home']
+- ['index.md', 'Start']
 - ['user/index.md', 'User Guide','Overview']
 - ['user/installation.md', 'User Guide','Installation']
 - ['user/getting-started.md', 'User Guide', 'Getting Started']
