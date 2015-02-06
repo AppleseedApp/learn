@@ -1,4 +1,4 @@
-# Installing Appleseed
+# Installing Appleseed on Windows
 
 ## Web Platform Installer 
 
