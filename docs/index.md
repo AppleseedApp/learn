@@ -2,40 +2,24 @@
 
 This documentation site is for Users, Builders, Designers, Developers, and Administrators of Appleseed Framework and applications that are built on the Appleseed Framework.  
 
+## [User Guide](user/index.md)
 
-## User Guide
+For site users that want to know how to find, add and manage content for general use.
 
-1. Overview
-2. Installation
-3. Getting Started
+## [Builder Guide](user/index.md)
 
-## Builder Guide
+For site builders that want to know how to add and manage pages, modules as a power user. 
 
-1. Overview
-2. Adding Pages
-3. Adding Modules
-4. Copying / Cloning Pages
+## [Administrator Guide](admin/index.md)
 
-## Administrator Guide
+For site administrators that want to know how to install/update portals, import/export content, manage multiple sites. 
 
-1. Overview
-2. Advanced Installation
-3. Updating the Portal
-4. Updating Modules / Packages
+## [Developer Guide](developer/index.md)
 
-## Developer Guide
+For site developers that want to extend the basic functionality of the Appleseed software with different types of modules and connectors.
 
-1. Overview
-2. Component Module 
-3. One File Module
-4. Compiled Module - Single Instance 
-5. Compiled Module - Multiple Instance 
+## [Designer Guide](designer/index.md)
 
-## Designer Guide
-
-1. Overview
-2. Themes
-3. Layouts
-
+For site designers that want to change the look and feel of the portal, pages, and modules using themes, layouts, and local theme overrides. 
 
 
